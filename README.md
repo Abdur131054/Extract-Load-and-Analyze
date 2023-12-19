@@ -87,6 +87,6 @@ The primary objective of this Extract and Load (EL) project is to efficiently ex
    ```
 - __Analysis with SQL:__ Write SQL queries in BigQuery to perform various analyses on the loaded data. Examples include identifying top revenue-generating categories, finding top and bottom products, analyzing sales trends, calculating customer lifetime value, and more.
 - __Visualization with Looker Studio:__ Utilize Looker Studio to create visualizations based on the SQL analysis. Construct meaningful charts, graphs, and dashboards to present insights derived from the dataset.
-
+![Dashboard](https://github.com/Abdur131054/Extract-Load-and-Analyze/assets/28232003/60e7c4b9-462d-4f69-a997-4205280ce4bb)
 
 
