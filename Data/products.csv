@@ -1,0 +1,19 @@
+product_id,product_name,category,price,stock_quantity
+1,Laptop,Electronics,100.00,10
+2,Jeans,Clothing,40.50,100
+3,Blender,Home Appliances,60.40,20
+4,Smartphone,Electronics,35.00,30
+5,T-shirt,Clothing,40.00,200
+6,Coffee Maker,Home Appliances,14.20,15
+7,Smart Watch,Electronics,20.00,10
+8,Iron,Home Appliances,15.30,2
+9,Digital Camera,Electronics,25.00,5
+10,Running Shoes,Clothing,12.10,50
+11,Microwave Oven,Home Appliances,30.00,10
+12,Bluetooth Speaker,Electronics,15.00,15
+13,Sunglasses,Clothing,5.20,100
+14,Toaster,Home Appliances,80.00,8
+15,Gaming Console,Electronics,350.00,12
+16,Backpack,Clothing,4.00,80
+17,Air Purifier,Home Appliances,120.00,6
+18,Fitness Tracker,Electronics,50.00,18
